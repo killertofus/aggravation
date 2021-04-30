@@ -1,0 +1,105 @@
+Using pre-set license
+Built from '2021.1/release' branch; Version is '2021.1.4f1 (4cd64a618c1b) revision 5035594'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Home; OS build 19042.928; Version 2009; 64bit' Language: 'en' Physical Memory: 16331 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+E:\Unity\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+E:/code/Agro/Agro
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+64646
+Successfully changed project path to: E:/code/Agro/Agro
+E:/code/Agro/Agro
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 91.31 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2021.1.4f1 (4cd64a618c1b)
+[Subsystems] Discovering subsystems at path E:/Unity/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path E:/code/Agro/Agro/Assets
+GfxDevice: creating device client; threaded=0; jobified=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Radeon RX 580 Series (ID=0x67df)
+    Vendor:   ATI
+    VRAM:     8171 MB
+    Driver:   27.20.21002.112
+Initialize mono
+Mono path[0] = 'E:/Unity/Editor/Data/Managed'
+Mono path[1] = 'E:/Unity/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'E:/Unity/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56756
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: E:/Unity/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.001118 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 95.75 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.068 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.003280 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 96.61 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.097 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.05 seconds
+Refreshing native plugins compatible for Editor in 0.68 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3382 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 130.3 MB.
+System memory in use after: 130.4 MB.
+
+Unloading 29 unused Assets to reduce memory usage. Loaded Objects now: 3841.
+Total: 2.567000 ms (FindLiveObjects: 0.315200 ms CreateObjectMapping: 0.092500 ms MarkObjects: 2.023400 ms  DeleteObjects: 0.134900 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Dice 1/4.jpg
+  artifactKey: Guid(ab39e3a6a8dfc90458abd417d4080927) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dice 1/4.jpg using Guid(ab39e3a6a8dfc90458abd417d4080927) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '01fcf2d9ba293698445604f56494687c') in 0.167294 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000237 seconds.
+  path: Assets/Dice 1/1.jpg
+  artifactKey: Guid(c300a6741d31cce4d9f29c86eeee3320) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dice 1/1.jpg using Guid(c300a6741d31cce4d9f29c86eeee3320) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b1bd61699b60804dddc6d764c7817f87') in 0.015463 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000297 seconds.
+  path: Assets/Dice 1/6.jpg
+  artifactKey: Guid(c8e6295e8bd72b1469d0a1167823ae3b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dice 1/6.jpg using Guid(c8e6295e8bd72b1469d0a1167823ae3b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9da53570e4f688c8898f4ddf6c6a547e') in 0.014286 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000213 seconds.
+  path: Assets/Dice 1/2.jpg
+  artifactKey: Guid(9cc2ce1307185cb4f8cdfe3cabb392f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dice 1/2.jpg using Guid(9cc2ce1307185cb4f8cdfe3cabb392f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ad33f17c7df9777d5e413cc73cfd9d4b') in 0.015267 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000205 seconds.
+  path: Assets/Dice 1/5.jpg
+  artifactKey: Guid(bf91859549a12b74fb26277a7ff77632) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dice 1/5.jpg using Guid(bf91859549a12b74fb26277a7ff77632) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8c51a1b4ec555295918e10b1988406e3') in 0.013253 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000184 seconds.
+  path: Assets/Dice 1/3.jpg
+  artifactKey: Guid(fbb40b10231f0c844bd5c35503bb802c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dice 1/3.jpg using Guid(fbb40b10231f0c844bd5c35503bb802c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd5592ada90725473674269824693aa42') in 0.012385 seconds 
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
